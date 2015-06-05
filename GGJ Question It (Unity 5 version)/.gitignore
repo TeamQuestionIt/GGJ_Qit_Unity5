@@ -32,11 +32,13 @@ ExportedObj/
 .Trashes
 Icon?
 ehthumbs.db
-Thumbs.db
+Thumbs.db*
 
 # plus some of @terrehbyte's stuff
 
 # UnityVS
-*/UnityVS/
+#**/UnityVS/*
+**/UnityVS/*/*.VersionSpecific.*
 UnityVS.meta
+
 *.sln.DotSettings
